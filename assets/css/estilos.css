@@ -32,8 +32,13 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
+}
+
+/* Estilo para un desplazamiento suave */
+html {
+  scroll-behavior: smooth;
 }
